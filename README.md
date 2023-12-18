@@ -1,4 +1,4 @@
-# cs210_cpp_program
+# CS 210 Project Journal and Repository
 
 David Scott SNHU CS210 12/17/23
 
